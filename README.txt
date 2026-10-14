@@ -1,1 +1,1 @@
-Portfolio Tracker v2: renamed app; separate additions/withdrawals; cash movements excluded from Performance Chart.
+Portfolio Tracker v3: starts all balances at ₦0; tracks total deposits and withdrawals separately; updates the bankroll curve based on current balance; includes cash-flow management and real-time open-bet tracking.
